@@ -1,0 +1,4 @@
+mediapipe==0.10.13    # FaceMesh landmarks + model weights (auto-download)
+opencv-python>=4.9.0  # solvePnP, Rodrigues, image preprocessing
+numpy>=1.24.0
+pytest>=8.0.0

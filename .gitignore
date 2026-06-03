@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual Environment
+venv/
+.env
+
+# Logs
+logs/
+*.log
+
+# Model Weights
+weights/
+
+# VS Code
+.vscode/
+
+# OS Files
+.DS_Store
+Thumbs.db

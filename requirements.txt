@@ -1,0 +1,31 @@
+# Core
+numpy>=1.24.0
+opencv-python>=4.9.0
+
+# Deep Learning
+torch
+torchvision
+
+# Face Verification
+insightface
+onnxruntime
+scikit-learn
+
+# Anti-Spoofing
+uniface==3.1.1
+
+# Gaze Tracking
+mediapipe>=0.10.13
+
+# Object Detection
+ultralytics==8.4.57
+
+# Utilities
+PyYAML
+requests
+psutil
+pillow
+matplotlib
+
+# Optional Testing
+pytest>=8.0.0
